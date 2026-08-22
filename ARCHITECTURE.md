@@ -1,4 +1,4 @@
-# Attestra Protocol: System Architecture
+# Attestra Protocol: System Architecture 
 
 This document provides a detailed visual representation and technical breakdown of the Attestra Protocol's architecture, logic flows, and security models, now enhanced with Zero-Knowledge (ZK) proof capabilities and identity-centric governance.
 
