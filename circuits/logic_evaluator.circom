@@ -1,5 +1,5 @@
 pragma circom 2.0.0;
-
+ 
 // A simple circuit to evaluate a basic logic rule.
 // In a real production scenario, this would handle complex JSONPath extraction and comparison.
 // For now, it proves that: inputData > threshold AND that the user knows the private data.
