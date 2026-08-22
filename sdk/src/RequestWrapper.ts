@@ -1,7 +1,7 @@
 import axios, { AxiosInstance } from 'axios';
 import { SignatureEngine } from './signature';
 
-export class RequestWrapper {
+export class RequestWrapper { 
   private client: AxiosInstance;
 
   constructor(private baseUrl: string, private signatureEngine: SignatureEngine, private getToken: () => string | null) {
