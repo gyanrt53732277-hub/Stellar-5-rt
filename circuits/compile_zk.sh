@@ -1,5 +1,5 @@
 #!/bin/bash
-
+ 
 # Attestra ZK-Setup Script
 # This script compiles the Circom circuits and performs a mock trusted setup for local testing.
 
