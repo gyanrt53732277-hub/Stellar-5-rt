@@ -3,7 +3,7 @@ import { RequestWrapper } from '../RequestWrapper';
 export class ExecutionModule {
   constructor(private request: RequestWrapper) {}
 
-  async trigger(ruleId: string) {
+  async trigger(ruleId: string) { 
     const { data } = await this.request.postSigned('/execute/trigger', { ruleId });
     return data;
   }
