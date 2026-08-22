@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { SignatureEngine } from '../signature';
+import { SignatureEngine } from '../signature'; 
 
 export class AuthModule {
   constructor(private baseUrl: string, private signatureEngine: SignatureEngine) {}
