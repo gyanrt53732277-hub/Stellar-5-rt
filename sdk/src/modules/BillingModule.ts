@@ -2,7 +2,7 @@ import { RequestWrapper } from '../RequestWrapper';
 
 export interface DepositPayload {
   depositAmount: number;
-  txHash: string;
+  txHash: string; 
   currency: string;
 }
 
