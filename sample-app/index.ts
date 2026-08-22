@@ -3,7 +3,7 @@ import nacl from 'tweetnacl';
 import bs58 from 'bs58';
 
 async function main() {
-  console.log("🚀 Starting Attestra SDK Demo");
+  console.log("🚀 Starting Attestra SDK Demo"); 
 
   // Generate a random keypair for this script
   const keyPair = nacl.sign.keyPair();
