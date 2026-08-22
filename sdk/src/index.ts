@@ -5,7 +5,7 @@ import { RuleModule } from './modules/RuleModule';
 import { ProofModule } from './modules/ProofModule';
 import { ExecutionModule } from './modules/ExecutionModule';
 import { EventModule } from './modules/EventModule';
-import { BillingModule } from './modules/BillingModule';
+import { BillingModule } from './modules/BillingModule'; 
 
 export interface AttestraConfig {
   apiKey?: string; // Optional for now
