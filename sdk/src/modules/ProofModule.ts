@@ -3,7 +3,7 @@ import { RequestWrapper } from '../RequestWrapper';
 export interface ZKOperation {
   _id: string;
   ruleId: string | any;
-  submitter: string;
+  submitter: string; 
   proofData: string;
   publicSignals?: string[];
   isZK?: boolean;
