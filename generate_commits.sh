@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 git reset --hard 32a14d9
 
 COMMITS=(
