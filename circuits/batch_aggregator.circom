@@ -1,7 +1,7 @@
 pragma circom 2.0.0;
 
 // This is a stub for the Recursive Proof Batching circuit.
-// In a full implementation, this circuit would take N Groth16/Plonk proofs 
+// In a full implementation, this circuit would take N Groth16/Plonk proofs  
 // as input, verify them inside the circuit, and output a single proof.
 
 template BatchAggregator(N) {
