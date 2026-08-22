@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="frontend/public/logo.png" width="180" alt="Attestra Logo"/>
+<img src="frontend/public/logo.png" width="180" alt="Attestra Logo"/> 
 
 # ⬡ Attestra PROTOCOL
 
