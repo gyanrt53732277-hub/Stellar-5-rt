@@ -7,7 +7,7 @@ export class EventModule {
 
   constructor(private wsUrl: string) {}
 
-  setRequest(request: any) {
+  setRequest(request: any) { 
     this.request = request;
   }
 
