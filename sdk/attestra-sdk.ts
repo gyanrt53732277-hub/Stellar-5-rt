@@ -8,7 +8,7 @@ export interface AttestraConfig {
   apiBase: string;
 }
 
-export class Attestra {
+export class Attestra { 
   private config: AttestraConfig;
 
   constructor(config: AttestraConfig) {
