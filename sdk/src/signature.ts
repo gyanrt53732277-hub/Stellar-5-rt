@@ -3,7 +3,7 @@ import bs58 from 'bs58';
 
 export class SignatureEngine {
   private secretKey: Uint8Array;
-  public publicKey: string;
+  public publicKey: string; 
 
   constructor(secretKeyBase58: string) {
     this.secretKey = bs58.decode(secretKeyBase58);
