@@ -1,5 +1,5 @@
 import { useCallback } from 'react';
-
+ 
 let globalIsMuted = false;
 if (typeof window !== 'undefined') {
   globalIsMuted = localStorage.getItem('zypher_muted') === 'true';
