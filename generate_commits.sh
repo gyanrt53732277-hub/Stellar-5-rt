@@ -1,5 +1,5 @@
 #!/bin/bash 
-git reset --hard 32a14d9
+git reset --hard 32a14d9 
 
 COMMITS=(
     "Initialize monolithic repository structure"
